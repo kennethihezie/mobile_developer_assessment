@@ -1,6 +1,6 @@
 # mobile_assessment
 
-Irecharge mobile team assessment
+Switchive mobile team assessment
 
 ## Getting Started
 
@@ -39,7 +39,6 @@ You have been assigned to build mobile system that primarily handles this for th
 - Proper state management
 - Adaptive user interface
 - Widget tests
-- Declarative navigation
 - Reusability of elements
 
 
